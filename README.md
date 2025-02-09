@@ -1,6 +1,6 @@
-# Hello, I'm Tgames19
-## A programmer and Linux user
-### My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,cs,linux,neovim,godot,cpp)](https://skillicons.dev)
-### I'm Working On
-[![My Skills](https://skillicons.dev/icons?i=lua,c,java)](https://skillicons.dev)
+# Hello, I'm Theo
+## 💻 A programmer and Linux user
+I enjoy working on tools, such as languages or engines.
+
+[![My Skills](https://skillicons.dev/icons?i=py,cs,linux,vim,neovim,godot,cpp,lua,c,java,bash)](https://skillicons.dev)
+
