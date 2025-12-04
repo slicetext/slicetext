@@ -2,5 +2,5 @@
 ## 💻 A programmer and Linux user
 I enjoy working on tools, such as languages or engines.
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,linux,vim,neovim,godot,cpp,lua,c,rust,java,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,neovim,godot,cpp,rust,java,bash)](https://skillicons.dev)
 
